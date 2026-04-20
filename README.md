@@ -45,7 +45,7 @@ Here are the WhatNickThinks assets and site images that managed to be preserved,
 
 ## Updates
 
-WhatNickThinks is no longer being updated or maintained. One Thirteen is operated by the same individuals who operated WhatNickThinks.com and all associated channels/accounts. This website/repo may be updated in the future. To anyone out there who remembers, thank you.
+WhatNickThinks is no longer being updated or maintained. This website/repo may be updated in the future. In April 2026, this repo was moved back to my personal account.
 
 The final letter, "Hello, old friend.," has been posted, unedited, to WhatNickThinks.com.
 
